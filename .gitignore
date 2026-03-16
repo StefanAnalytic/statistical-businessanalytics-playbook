@@ -25,3 +25,9 @@ data/
 *.parquet
 *.db
 *.sqlite3
+
+# Grafiken und Bilder ignorieren
+Grafiken/
+*.png
+*.jpg
+*.jpeg
