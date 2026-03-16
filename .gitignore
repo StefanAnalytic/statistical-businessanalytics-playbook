@@ -1,0 +1,27 @@
+# Python / Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS specific (Mac)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs (VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Data (Ignoriere große CSV-Dateien, um das Repo schlank zu halten)
+data/
+*.csv
+*.parquet
+*.db
+*.sqlite3
